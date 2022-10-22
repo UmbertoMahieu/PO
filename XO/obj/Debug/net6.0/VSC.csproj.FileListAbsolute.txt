@@ -1,0 +1,15 @@
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\bin\Debug\net6.0\VSC.exe
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\bin\Debug\net6.0\VSC.deps.json
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\bin\Debug\net6.0\VSC.runtimeconfig.json
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\bin\Debug\net6.0\VSC.dll
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\bin\Debug\net6.0\VSC.pdb
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.csproj.AssemblyReference.cache
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.AssemblyInfoInputs.cache
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.AssemblyInfo.cs
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.dll
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\refint\VSC.dll
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.pdb
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\VSC.genruntimeconfig.cache
+C:\Users\umber\Documents\OneDrive\Documents\Ifosup\VSC\2eme\PO\XO\obj\Debug\net6.0\ref\VSC.dll
